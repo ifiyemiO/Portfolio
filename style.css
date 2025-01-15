@@ -41,3 +41,24 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+#certifications {
+  text-align: left;
+  padding: 20px;
+}
+
+.certifications {
+  display: flex;
+  justify-content: left;
+  gap: 20px;
+}
+
+.certifications img {
+  width: 100px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.certifications article {
+  text-align: center;
+}
